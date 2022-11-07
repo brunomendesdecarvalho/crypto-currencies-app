@@ -1,16 +1,14 @@
-# crypto
+# Crypto Currencies App
 
-A new Flutter project.
+An app that consumes the Coin Lore API.
 
-## Getting Started
+API doc: https://www.coinlore.com/cryptocurrency-data-api
+Screen idea: https://www.codementor.io/projects/mobile/cryptocurrency-price-listing-mobile-app-atx32meo88
 
-This project is a starting point for a Flutter application.
+# Screenshots
+## Main Screen (loading)
 
-A few resources to get you started if this is your first Flutter project:
+![Loading Screen](https://user-images.githubusercontent.com/51328447/200416000-ec777b48-7cc3-41c3-81f3-17e54c0c1f99.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Main Screen (with data)
+![Main Screen](https://user-images.githubusercontent.com/51328447/200415714-275c3293-df14-4aaf-bfe6-7d8ff301e101.png)
